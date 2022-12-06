@@ -1,0 +1,32 @@
+
+.App{
+  width: 1024px;
+  text-align: center;
+  background-color: coral;
+  margin-left: 125px;
+}
+.uyelerListe{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.uye{
+  background-color: wheat;
+  width: 40%;
+  margin-top: 20px;
+  margin-left: 10px;
+  margin-bottom: 20px;
+  border-radius: 6px;
+}
+.uyeBilgi{
+  color: black;
+  font-size: 14px;
+}
+.formContainer{
+  width: 450px;
+  background-color: bisque;
+  margin-left: 300px;
+  margin-top:50px;
+  display: flex;
+  justify-content: center;
+}
